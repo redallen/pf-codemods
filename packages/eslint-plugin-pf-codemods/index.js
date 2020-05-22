@@ -23,6 +23,8 @@ const rules = {
   "chipgroup-remove-chipbutton": require('./lib/rules/chipgroup-remove-chipbutton'),
   "chipgroup-remove-chipbutton": require('./lib/rules/chipgroup-remove-chipbutton'),
   "chipgroup-remove-chipgrouptoolbaritem": require('./lib/rules/chipgroup-remove-chipgrouptoolbaritem'),
+  "dropdown-rename-icon": require('./lib/rules/dropdown-rename-icon'),
+  "dropdown-rename-icon": require('./lib/rules/dropdown-rename-icon'),
 };
 
 module.exports = {
